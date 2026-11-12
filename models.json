@@ -1,9 +1,14 @@
 {
   "source": "OpenRouter 免费模型名单（每天早上 8 点自动扫描）",
-  "checked_at": "2026-11-10T23:55:35.529517+00:00",
-  "free_count": 15,
+  "checked_at": "2026-11-11T23:55:28.836982+00:00",
+  "free_count": 16,
   "eligible_100b_toolcalling": 0,
   "models": [
+    {
+      "id": "baidu/ernie-5.5-flash-preview:free",
+      "note": "百度文心 5.5 Flash 预览版",
+      "openrouter_url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
+    },
     {
       "id": "cohere/north-mini-code:free",
       "note": "Cohere 代码小模型",

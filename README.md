@@ -2,10 +2,11 @@
 
 OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新。
 
-## 名单（2026年11月11日，共 15 个）
+## 名单（2026年11月12日，共 16 个）
 
 | 模型 | 说明 |
 |---|---|
+| baidu/ernie-5.5-flash-preview:free | 百度文心 5.5 Flash 预览版 |
 | cohere/north-mini-code:free | Cohere 代码小模型 |
 | dots-studio/dots-3-note-preview:free | Dots 3 笔记预览版 |
 | google/gemma-4-26b-a4b-it:free | Google Gemma 4 26B |
@@ -26,7 +27,7 @@ OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新
 
 ## 重要说明
 
-这 15 个里目前没有同时满足 **100B 参数以上 + 支持工具调用** 的，Pi 子代理能直接用的还是 0 个，先当参考名单看。
+这 16 个里目前没有同时满足 **100B 参数以上 + 支持工具调用** 的，Pi 子代理能直接用的还是 0 个，先当参考名单看。
 
 ## 数据
 
