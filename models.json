@@ -1,9 +1,14 @@
 {
   "source": "OpenRouter 免费模型名单（每天早上 8 点自动扫描）",
-  "checked_at": "2026-11-11T23:55:28.836982+00:00",
-  "free_count": 16,
+  "checked_at": "2026-11-13T00:00:19.503615+00:00",
+  "free_count": 18,
   "eligible_100b_toolcalling": 0,
   "models": [
+    {
+      "id": "apodex/apodex-1.1-mini:free",
+      "note": "Apodex 1.1 Mini",
+      "openrouter_url": "https://openrouter.ai/apodex/apodex-1.1-mini:free"
+    },
     {
       "id": "baidu/ernie-5.5-flash-preview:free",
       "note": "百度文心 5.5 Flash 预览版",
@@ -73,6 +78,11 @@
       "id": "openrouter/free",
       "note": "OpenRouter 免费路由，自动选免费模型",
       "openrouter_url": "https://openrouter.ai/openrouter/free"
+    },
+    {
+      "id": "particle-ai/particle-1:free",
+      "note": "Particle 1",
+      "openrouter_url": "https://openrouter.ai/particle-ai/particle-1:free"
     },
     {
       "id": "recursive/flint-v1.0:free",

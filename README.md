@@ -2,10 +2,11 @@
 
 OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新。
 
-## 名单（2026年11月12日，共 16 个）
+## 名单（2026年11月13日，共 18 个）
 
 | 模型 | 说明 |
 |---|---|
+| apodex/apodex-1.1-mini:free | Apodex 1.1 Mini |
 | baidu/ernie-5.5-flash-preview:free | 百度文心 5.5 Flash 预览版 |
 | cohere/north-mini-code:free | Cohere 代码小模型 |
 | dots-studio/dots-3-note-preview:free | Dots 3 笔记预览版 |
@@ -20,6 +21,7 @@ OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新
 | nvidia/nemotron-3.5-lightning:free | NVIDIA Nemotron 3.5 Lightning |
 | nvidia/nemotron-3.5-super-vl:free | NVIDIA Nemotron 3.5 Super VL（视觉） |
 | openrouter/free | OpenRouter 免费路由，自动选免费模型 |
+| particle-ai/particle-1:free | Particle 1 |
 | recursive/flint-v1.0:free | Flint v1.0 |
 | thinkingmachines/inkling-2-small:free | Thinking Machines Inkling 2 Small |
 
@@ -27,7 +29,7 @@ OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新
 
 ## 重要说明
 
-这 16 个里目前没有同时满足 **100B 参数以上 + 支持工具调用** 的，Pi 子代理能直接用的还是 0 个，先当参考名单看。
+这 18 个里目前没有同时满足 **100B 参数以上 + 支持工具调用** 的，Pi 子代理能直接用的还是 0 个，先当参考名单看。
 
 ## 数据
 
