@@ -2,11 +2,10 @@
 
 OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新。
 
-## 名单（2026年11月13日，共 18 个）
+## 名单（2026年11月14日，共 17 个）
 
 | 模型 | 说明 |
 |---|---|
-| apodex/apodex-1.1-mini:free | Apodex 1.1 Mini |
 | baidu/ernie-5.5-flash-preview:free | 百度文心 5.5 Flash 预览版 |
 | cohere/north-mini-code:free | Cohere 代码小模型 |
 | dots-studio/dots-3-note-preview:free | Dots 3 笔记预览版 |
@@ -14,7 +13,7 @@ OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新
 | google/gemma-4-31b-it:free | Google Gemma 4 31B |
 | google/lyria-3-clip-preview | Google Lyria 3 音乐片段预览版 |
 | google/lyria-3-pro-preview | Google Lyria 3 音乐专业预览版 |
-| liquid/lfm-2.5-2.6b:free | Liquid LFM 2.5 2.6B |
+| inclusionai/ling-3.2-flash:free | InclusionAI Ling 3.2 Flash |
 | liquid/lfm-3-1.7b:free | Liquid LFM 3 1.7B |
 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free | NVIDIA Nemotron 3 Nano 30B 推理版 |
 | nvidia/nemotron-3-ultra-550b-a55b:free | NVIDIA Nemotron 3 Ultra 550B |
@@ -29,7 +28,7 @@ OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新
 
 ## 重要说明
 
-这 18 个里目前没有同时满足 **100B 参数以上 + 支持工具调用** 的，Pi 子代理能直接用的还是 0 个，先当参考名单看。
+这 17 个里目前没有同时满足 **100B 参数以上 + 支持工具调用** 的，Pi 子代理能直接用的还是 0 个，先当参考名单看。
 
 ## 数据
 

@@ -1,14 +1,9 @@
 {
   "source": "OpenRouter 免费模型名单（每天早上 8 点自动扫描）",
-  "checked_at": "2026-11-13T00:00:19.503615+00:00",
-  "free_count": 18,
+  "checked_at": "2026-11-13T23:55:57.473727+00:00",
+  "free_count": 17,
   "eligible_100b_toolcalling": 0,
   "models": [
-    {
-      "id": "apodex/apodex-1.1-mini:free",
-      "note": "Apodex 1.1 Mini",
-      "openrouter_url": "https://openrouter.ai/apodex/apodex-1.1-mini:free"
-    },
     {
       "id": "baidu/ernie-5.5-flash-preview:free",
       "note": "百度文心 5.5 Flash 预览版",
@@ -45,9 +40,9 @@
       "openrouter_url": "https://openrouter.ai/google/lyria-3-pro-preview"
     },
     {
-      "id": "liquid/lfm-2.5-2.6b:free",
-      "note": "Liquid LFM 2.5 2.6B",
-      "openrouter_url": "https://openrouter.ai/liquid/lfm-2.5-2.6b:free"
+      "id": "inclusionai/ling-3.2-flash:free",
+      "note": "InclusionAI Ling 3.2 Flash",
+      "openrouter_url": "https://openrouter.ai/inclusionai/ling-3.2-flash:free"
     },
     {
       "id": "liquid/lfm-3-1.7b:free",
