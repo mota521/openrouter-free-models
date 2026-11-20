@@ -1,7 +1,7 @@
 {
   "source": "OpenRouter 免费模型名单（每天早上 8 点自动扫描）",
-  "checked_at": "2026-11-13T23:55:57.473727+00:00",
-  "free_count": 17,
+  "checked_at": "2026-11-19T23:55:52.208862+00:00",
+  "free_count": 16,
   "eligible_100b_toolcalling": 0,
   "models": [
     {
@@ -83,11 +83,6 @@
       "id": "recursive/flint-v1.0:free",
       "note": "Flint v1.0",
       "openrouter_url": "https://openrouter.ai/recursive/flint-v1.0:free"
-    },
-    {
-      "id": "thinkingmachines/inkling-2-small:free",
-      "note": "Thinking Machines Inkling 2 Small",
-      "openrouter_url": "https://openrouter.ai/thinkingmachines/inkling-2-small:free"
     }
   ]
 }

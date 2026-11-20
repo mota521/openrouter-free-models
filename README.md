@@ -2,7 +2,7 @@
 
 OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新。
 
-## 名单（2026年11月14日，共 17 个）
+## 名单（2026年11月20日，共 16 个）
 
 | 模型 | 说明 |
 |---|---|
@@ -22,13 +22,12 @@ OpenRouter 上目前免费的模型名单，每天早上 8 点自动扫描更新
 | openrouter/free | OpenRouter 免费路由，自动选免费模型 |
 | particle-ai/particle-1:free | Particle 1 |
 | recursive/flint-v1.0:free | Flint v1.0 |
-| thinkingmachines/inkling-2-small:free | Thinking Machines Inkling 2 Small |
 
 每个模型在 OpenRouter 上的页面：`https://openrouter.ai/<模型 ID>`，也可以直接去 [OpenRouter 模型页](https://openrouter.ai/models)筛“免费”查看实时列表。
 
 ## 重要说明
 
-这 17 个里目前没有同时满足 **100B 参数以上 + 支持工具调用** 的，Pi 子代理能直接用的还是 0 个，先当参考名单看。
+这 16 个里目前没有同时满足 **100B 参数以上 + 支持工具调用** 的，Pi 子代理能直接用的还是 0 个，先当参考名单看。
 
 ## 数据
 
