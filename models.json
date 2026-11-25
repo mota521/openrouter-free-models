@@ -1,18 +1,13 @@
 {
   "source": "OpenRouter 免费模型名单（每天早上 8 点自动扫描）",
-  "checked_at": "2026-11-23T23:55:38.159915+00:00",
-  "free_count": 15,
+  "checked_at": "2026-11-24T23:56:15.137614+00:00",
+  "free_count": 14,
   "eligible_100b_toolcalling": 0,
   "models": [
     {
       "id": "baidu/ernie-5.5-flash-preview:free",
       "note": "百度文心 5.5 Flash 预览版",
       "openrouter_url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free"
-    },
-    {
-      "id": "dots-studio/dots-3-note-preview:free",
-      "note": "Dots 3 笔记预览版",
-      "openrouter_url": "https://openrouter.ai/dots-studio/dots-3-note-preview:free"
     },
     {
       "id": "google/gemma-4-26b-a4b-it:free",
