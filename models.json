@@ -1,7 +1,7 @@
 {
   "source": "OpenRouter 免费模型名单（每天早上 8 点自动扫描）",
-  "checked_at": "2026-11-24T23:56:15.137614+00:00",
-  "free_count": 14,
+  "checked_at": "2026-11-27T23:55:32.530948+00:00",
+  "free_count": 13,
   "eligible_100b_toolcalling": 0,
   "models": [
     {
@@ -28,11 +28,6 @@
       "id": "google/lyria-3-pro-preview",
       "note": "Google Lyria 3 音乐专业预览版",
       "openrouter_url": "https://openrouter.ai/google/lyria-3-pro-preview"
-    },
-    {
-      "id": "inclusionai/ling-3.2-flash:free",
-      "note": "InclusionAI Ling 3.2 Flash",
-      "openrouter_url": "https://openrouter.ai/inclusionai/ling-3.2-flash:free"
     },
     {
       "id": "liquid/lfm-3-1.7b:free",
